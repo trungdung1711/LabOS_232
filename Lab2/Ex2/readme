@@ -1,0 +1,4 @@
+To run this project: ./run.sh NUMBER_THREADS NUMBER_TO_CALCULATE
+The NUMBER_THREADS will be used in sum_multi_threads
+                                    -> if NUMBER_THREADS == 0 -> false argument
+                                    
